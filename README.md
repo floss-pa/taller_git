@@ -18,10 +18,10 @@ La idea del Taller de Git + Github tiene como finalidad poder desarrollar un rep
 - [x] Crear mi repositorio.
 - [x] Jugar con los comando de Git.
 - [x] Configurar mi primer proyecto y darlo a conocer en Github.
-- [ ] Grupos del mundial.
-- [ ] Tabla de posiciones del munidal.
+- [x] Grupos del mundial.
+- [x] Tabla de posiciones del munidal.
 - [ ] Opiniones del mundial.
-- [ ] Visualizar las contribuciones.
+- [x] Visualizar las contribuciones.
 
 Talleres y eventos organizado por el Grupo Universitario de Floss-Pa UP. Mantente informado de más talleres y eventos en nuestra página [web](https://floss-pa.net) o Twitter(@flosspa) y [Facebook](https://fb.com/flosspa)
 
