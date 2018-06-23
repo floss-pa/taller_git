@@ -1,4 +1,4 @@
-# Platilla de Grupos del Mundial
+# Grupos del Mundial
 
 ## Grupo A
 <img alt="Rusia" src="http://flags.fmcdn.net/data/flags/w580/ru.png" width="25" height="25"> Rusia
