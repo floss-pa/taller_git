@@ -38,4 +38,4 @@ ___
 ## Desarrollado:
 - ### [Maryon Torres](https://twitter.com/maryitotr)
 - ### [Rafael Sanchez](https://twitter.com/maryitotr) 
-- ### [Cecilio Niño] (https://twitter.com/Cecilio_25)
+- ### [Cecilio Niño](https://twitter.com/Cecilio_25)
