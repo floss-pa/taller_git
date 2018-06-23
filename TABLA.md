@@ -25,9 +25,6 @@ ___
 | <img alt="Alemania" src="http://flags.fmcdn.net/data/flags/w580/de.png" width="50" height="50">| Alemania | 0|  
 | <img alt="Corea Sur" src="http://flags.fmcdn.net/data/flags/w580/kr.png" width="50" height="50">| Corea Sur | 0|     
 ___
-## Desarrollado:
-- ### [Maryon Torres](https://twitter.com/maryitotr)
-- ### [Rafael Sanchez](https://twitter.com/maryitotr) 
 
 ### Grupo G
 |Bandera               |      Equipos         | Puntos|
@@ -39,5 +36,6 @@ ___
 ___
 
 ## Desarrollado:
-- ### [Maryon Torres](https://twitter.com/maryitotr) 
+- ### [Maryon Torres](https://twitter.com/maryitotr)
+- ### [Rafael Sanchez](https://twitter.com/maryitotr) 
 - ### [Cecilio Niño] (https://twitter.com/Cecilio_25)
