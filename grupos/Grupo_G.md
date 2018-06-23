@@ -2,18 +2,18 @@
 
 ## Grupo G
 
-<img alt="Francia"
-src="http://flags.fmcdn.net/data/flags/w580/fr.png"
-width="25" height="25"> Francia
+<img alt="Bélgica"
+src="http://flags.fmcdn.net/data/flags/w580/be.png"
+width="25" height="25"> Bélgica
 
-<img alt="Australia"
-src="http://flags.fmcdn.net/data/flags/w580/au.png"
-width="25" height="25"> Australia
+<img alt="Panamá"
+src="http://flags.fmcdn.net/data/flags/w580/pa.png"
+width="25" height="25"> Panamá
 
-<img alt="Perú"
-src="http://flags.fmcdn.net/data/flags/w580/pe.png"
-width="25" height="25"> Perú
+<img alt="Túnez"
+src="http://flags.fmcdn.net/data/flags/w580/tn.png"
+width="25" height="25"> Túnez
 
-<img alt="Dinamarca"
-src="http://flags.fmcdn.net/data/flags/w580/dk.png"
-width="25" height="25"> Dinamarca
+<img alt="Inglaterra"
+src="https://images.ecosia.org/YhP6-1HZWYPeetlZmdY_IFiosBQ=/0x390/smart/http%3A%2F%2F3.bp.blogspot.com%2F-ZPZYb1wmnG8%2FUE1Uu8_U4YI%2FAAAAAAAAANE%2FDIJad4t4cBQ%2Fs1600%2Fengland_flag_pic.jpg"
+width="25" height="25"> Inglaterra
