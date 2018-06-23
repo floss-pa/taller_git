@@ -15,8 +15,8 @@ ___
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
 | <img alt="Japón" src="http://flags.fmcdn.net/data/flags/w580/jp.png" width="50" height="50">| Japón | 3|
-|<img alt="Senegal" src="http://flags.fmcdn.net/data/flags/w580/sn.png" width="50" height="50">| Senegal | 4|
-|<img alt="Polonia" src="http://flags.fmcdn.net/data/flags/w580/pl.png" width="50" height="50">| Polonia | 4|
+|<img alt="Senegal" src="http://flags.fmcdn.net/data/flags/w580/sn.png" width="50" height="50">| Senegal | 3|
+|<img alt="Polonia" src="http://flags.fmcdn.net/data/flags/w580/pl.png" width="50" height="50">| Polonia | 0|
 |<img alt="Colombia" src="http://flags.fmcdn.net/data/flags/w580/co.png" width="50" height="50">| Colombia | 0|
 ___
 
