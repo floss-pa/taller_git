@@ -10,6 +10,8 @@ Aprender sobre los sistema de control de versiones (Git) a través de la platafo
 
 La idea del Taller de Git + Github tiene como finalidad poder desarrollar un repositorio mundialista con todas las contribución de cada uno de los participante.
 
+![logo del mundial](https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/06/19/15294068984264.jpg)
+
 ## ALCANCE
 
 - [ ] Conocer Git y Github.
