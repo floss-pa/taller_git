@@ -10,4 +10,6 @@
 
 <img alt ="Irán" src="http://flags.fmcdn.net/data/flags/w580/ir.png" width="25" height="25"> Irán
 
+### Desarrollado por:
 
+[Boris Ladera]
