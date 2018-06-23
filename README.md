@@ -14,10 +14,10 @@ La idea del Taller de Git + Github tiene como finalidad poder desarrollar un rep
 
 ## ALCANCE
 
-- [ ] Conocer Git y Github.
-- [ ] Crear mi repositorio.
-- [ ] Jugar con los comando de Git.
-- [ ] Configurar mi primer proyecto y darlo a conocer en Github.
+- [x] Conocer Git y Github.
+- [x] Crear mi repositorio.
+- [x] Jugar con los comando de Git.
+- [x] Configurar mi primer proyecto y darlo a conocer en Github.
 - [ ] Grupos del mundial.
 - [ ] Tabla de posiciones del munidal.
 - [ ] Opiniones del mundial.
