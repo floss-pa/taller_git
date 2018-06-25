@@ -3,8 +3,8 @@
 ### Grupo A
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
+| <img alt="Uruguay" src="http://flags.fmcdn.net/data/flags/w580/uy.png" width="50" height="50">| Uruguay | 9| 
 | <img alt="Rusia" src="http://flags.fmcdn.net/data/flags/w580/ru.png" width="50" height="50">| Rusia | 6|       
-| <img alt="Uruguay" src="http://flags.fmcdn.net/data/flags/w580/uy.png" width="50" height="50">| Uruguay | 6| 
 | <img alt="Egipto" src="http://flags.fmcdn.net/data/flags/w580/eg.png" width="50" height="50">| Egipto | 0 |
 | <img alt="Arabia Saudita" src="http://flags.fmcdn.net/data/flags/w580/sa.png" width="50" height="50">| Arabia Saudita | 0| 
 ___
@@ -12,10 +12,10 @@ ___
 
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="España" src="http://flags.fmcdn.net/data/flags/w580/es.png" width="50" height="50">| España | 4|
-|<img alt="Portugal" src="http://flags.fmcdn.net/data/flags/w580/pt.png" width="50" height="50">| Portugal | 4|
-|<img alt="Irán" src="http://flags.fmcdn.net/data/flags/w580/ir.png" width="50" height="50">| Irán | 3|
-|<img alt="Marruecos" src="http://flags.fmcdn.net/data/flags/w580/ma.png" width="50" height="50">| Marruecos | 0|
+| <img alt="España" src="http://flags.fmcdn.net/data/flags/w580/es.png" width="50" height="50">| España | 5|
+|<img alt="Portugal" src="http://flags.fmcdn.net/data/flags/w580/pt.png" width="50" height="50">| Portugal | 5|
+|<img alt="Irán" src="http://flags.fmcdn.net/data/flags/w580/ir.png" width="50" height="50">| Irán | 4|
+|<img alt="Marruecos" src="http://flags.fmcdn.net/data/flags/w580/ma.png" width="50" height="50">| Marruecos | 1|
 ___
 ### Grupo C
 |Bandera               |      Equipos         | Puntos|
