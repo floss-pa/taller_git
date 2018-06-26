@@ -26,7 +26,22 @@ ___
 | <img alt="Australia" src="http://flags.fmcdn.net/data/flags/w580/au.png" width="50" height="50">| Australia |1|       
 | <img alt="Perú" src="http://flags.fmcdn.net/data/flags/w580/pe.png" width="50" height="50">| Perú |0|       
 ___
-
+### Grupo D
+|Bandera               |      Equipos         | Puntos|
+|----------------------|----------------------|-------|
+| <img alt="Croacia" src="http://flags.fmcdn.net/data/flags/w580/hr.png" width="50" height="50">| Croacia|6|       
+| <img alt="Nigeria" src="http://flags.fmcdn.net/data/flags/w580/ng.png" width="50" height="50">| Nigeria |3|       
+| <img alt="Islandia" src="http://flags.fmcdn.net/data/flags/w580/is.png" width="50" height="50">| Islandia |1|       
+| <img alt="Argentina" src="http://flags.fmcdn.net/data/flags/w580/ar.png" width="50" height="50">| Argentina |0|       
+___
+### Grupo E
+|Bandera               |      Equipos         | Puntos|
+|----------------------|----------------------|-------|
+| <img alt="Brasil" src="http://flags.fmcdn.net/data/flags/w580/br.png" width="50" height="50">| Brasil|4|       
+| <img alt="Suiza" src="http://flags.fmcdn.net/data/flags/w580/ch.png" width="50" height="50">| Suiza |4|       
+| <img alt="Serbia" src="http://flags.fmcdn.net/data/flags/w580/rs.png" width="50" height="50">| Serbia |3|       
+| <img alt="Costa Rica" src="http://flags.fmcdn.net/data/flags/w580/cr.png" width="50" height="50">| Costa Rica |0|       
+___
 ### Grupo F
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
@@ -39,19 +54,21 @@ ___
 ### Grupo G
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="Bélgica" src="http://flags.fmcdn.net/data/flags/w580/be.png" width="50" height="50">| Bélgica|6|       
-| <img alt="Inglaterra" src="https://images.ecosia.org/YhP6-1HZWYPeetlZmdY_IFiosBQ=/0x390/smart/http%3A%2F%2F3.bp.blogspot.com%2F-ZPZYb1wmnG8%2FUE1Uu8_U4YI%2FAAAAAAAAANE%2FDIJad4t4cBQ%2Fs1600%2Fengland_flag_pic.jpg" width="50" height="50">| Inglaterra |3|       
+| <img alt="Inglaterra" src="https://images.ecosia.org/YhP6-1HZWYPeetlZmdY_IFiosBQ=/0x390/smart/http%3A%2F%2F3.bp.blogspot.com%2F-ZPZYb1wmnG8%2FUE1Uu8_U4YI%2FAAAAAAAAANE%2FDIJad4t4cBQ%2Fs1600%2Fengland_flag_pic.jpg" width="50" height="50">| Inglaterra |6|   
+| <img alt="Bélgica" src="http://flags.fmcdn.net/data/flags/w580/be.png" width="50" height="50">| Bélgica|6|
+| <img alt="Túnez" src="http://flags.fmcdn.net/data/flags/w580/tn.png" width="50" height="50">| Túnez |0|  
 | <img alt="Panamá" src="http://flags.fmcdn.net/data/flags/w580/pa.png" width="50" height="50">| Panamá |0|       
-| <img alt="Túnez" src="http://flags.fmcdn.net/data/flags/w580/tn.png" width="50" height="50">| Túnez |0|       
+     
 ___
 ### Grupo H
 
 |Bandera               |      Equipos         | Puntos|
 |----------------------|----------------------|-------|
-| <img alt="Japón" src="http://flags.fmcdn.net/data/flags/w580/jp.png" width="50" height="50">| Japón | 3|
-|<img alt="Senegal" src="http://flags.fmcdn.net/data/flags/w580/sn.png" width="50" height="50">| Senegal | 3|
+| <img alt="Japón" src="http://flags.fmcdn.net/data/flags/w580/jp.png" width="50" height="50">| Japón | 4|
+|<img alt="Senegal" src="http://flags.fmcdn.net/data/flags/w580/sn.png" width="50" height="50">| Senegal | 4|
+|<img alt="Colombia" src="http://flags.fmcdn.net/data/flags/w580/co.png" width="50" height="50">| Colombia | 3|
 |<img alt="Polonia" src="http://flags.fmcdn.net/data/flags/w580/pl.png" width="50" height="50">| Polonia | 0|
-|<img alt="Colombia" src="http://flags.fmcdn.net/data/flags/w580/co.png" width="50" height="50">| Colombia | 0|
+
 ___
 ## Desarrollado:
 - ### [Maryon Torres](https://twitter.com/maryitotr)
